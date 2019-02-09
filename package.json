@@ -1,0 +1,26 @@
+{
+  "name": "mern-tute",
+  "version": "1.0.0",
+  "description": "basics tutorial of mern stack using node,express,react and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajgirkumar/mern-tute.git"
+  },
+  "author": "Rajgir Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajgirkumar/mern-tute/issues"
+  },
+  "homepage": "https://github.com/rajgirkumar/mern-tute#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10"
+  }
+}
